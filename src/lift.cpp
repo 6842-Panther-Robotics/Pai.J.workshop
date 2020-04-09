@@ -1,4 +1,5 @@
 #include "main.h"
+
 //Sensors
 pros::ADIPotentiometer pot('B'); //4095 ticks in 265 degrees
 pros::ADILineSensor line ('C'); //4095 shades of color
