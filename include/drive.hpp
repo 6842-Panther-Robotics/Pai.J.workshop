@@ -1,0 +1,15 @@
+void driveOP();
+void moveDrive(int speed, int inches);
+void brakeDrive();
+void coastDrive();
+void wait(int time);
+void left(int speed);
+void right(int speed);
+void moveDriveT(int speed, int time);
+void moveRight(int speed, int degree);
+void moveForwardP(int inches);
+void moveBackwardP(int inches);
+void turnDriveP(int degree);
+void moveLeft(int speed, int degree);
+void all(int speed);
+void all();
